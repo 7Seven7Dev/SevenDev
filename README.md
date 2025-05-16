@@ -64,12 +64,3 @@ I'm a **passionate developer** specializing in:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
-
-## 🧊 Chill Zone
-
-I like to relax too 😄  
-Here's a little sledge gif — because sometimes you just need to slow down 🍵
-
-![sledge](https://tenor.com/pl/view/coding-gif-10602112677214789124)
-
----
