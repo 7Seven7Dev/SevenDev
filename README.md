@@ -70,6 +70,6 @@ I'm a **passionate developer** specializing in:
 I like to relax too 😄  
 Here's a little sledge gif — because sometimes you just need to slow down 🍵
 
-![sledge](https://media.giphy.com/media/3o6ZsYM7YOvY5Jx3Vm/giphy.gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg))
+![sledge](https://tenor.com/pl/view/coding-gif-10602112677214789124)
 
 ---
